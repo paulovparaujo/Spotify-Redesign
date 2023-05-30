@@ -1,4 +1,4 @@
-arquivos editados no dia do erro:
+arquivos editados no dia do erro :
 
 player.component.html OK
 player.module.ts
