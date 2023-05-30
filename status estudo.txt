@@ -1,0 +1,27 @@
+13/05 05:32 - parei em:
+
+token nao valida no localhost > application
+nao aparece info do user no console
+
+aula 3 28:34
+
+
+16/05 00:17 - parei em
+> token valida no localhost ao dar play no app spotify
+> player works funciona amem
+> ainda nao obtem dados do userinfo no console
+
+aula 3 41:00
+
+17/05 22:32
+> ainda nao obtem dados do userinfo (mas deixa isso de lado agr)
+> rotas ja funciona bem, pagina player funciona quando logado
+> rotas player e login funcionam quando solicitado no network
+
+aula 4 7:00
+
+18/05 22:13
+> consegui fazer o botao abrir spotify autenticar e ir direto para player, mas ao codar em login.component.ts algum codigo quebrou
+> o botao obtem o token, mas nao guarda o token, entao nao eh possivel acessar a pagina player, ela volta pra login
+
+aula 4 25:17

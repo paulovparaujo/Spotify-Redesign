@@ -1,0 +1,16 @@
+arquivos editados no dia do erro:
+
+player.component.html OK
+player.module.ts
+player.routes.ts
+
+login.component.ts OK
+login.module.ts OK
+
+spotify.service (aqui estava o problema na ! do if(!!token)
+
+app.module.ts
+
+autenticado.guard.ts
+
+
